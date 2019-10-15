@@ -1,0 +1,6 @@
+{"message":"Folder with id 5 created","level":"info"}
+{"message":"'note_name' is required","level":"error"}
+{"message":"Note with id 8 created","level":"info"}
+{"message":"Card with id '8' deleted","level":"info"}
+{"message":"Card with id '7' deleted","level":"info"}
+{"message":"Note with id 9 created","level":"info"}
